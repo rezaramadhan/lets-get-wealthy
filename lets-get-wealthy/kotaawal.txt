@@ -1,0 +1,24 @@
+> 120000 Beijing 1 0 false false 0
+> 100000 Jakarta 1 0 false false 0
+> 160000 Ancol 0 0 false true 0
+> 90000 Taipei 2 0 false false 0
+> 100000 NewDelhi 2 0 false false 0
+> 150000 Seoul 2 0 false false 0
+> 200000 Hawai 3 0 false false 0
+> 200000 Tokyo 3 0 false false 0
+> 200000 Sydney 3 0 false false 0
+> 100000 Singapore 4 0 false false 0
+> 160000 Sengigi 0 0 false true 0
+> 200000 SaoPaolo 4 0 false false 0
+> 200000 Denmark 5 0 false false 0
+> 150000 Bintan 0 0 false true 0
+> 220000 Berlin 5 0 false false 0
+> 150000 Geneva 6 0 false false 0
+> 150000 Moscow 6 0 false false 0
+> 200000 Rome 6 0 false false 0
+> 200000 Kuta 0 0 false true 0
+> 210000 London 7 0 false false 0
+> 190000 Paris 7 0 false false 0
+> 300000 NewYork 8 0 false false 0
+> 200000 Bangkok 8 0 false false 0
+.

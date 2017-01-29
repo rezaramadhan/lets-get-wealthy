@@ -1,0 +1,32 @@
+bug:
+- DONE load -> a lot! (mudah2an bener)
+- leaderboard, keluaran masih salah -> vitra
+- DONE print board -> vitra
+- DONE off world cup masih aneh
+- DONE tambahin nama player pas minta bayar jail
+  DONE rapihin, kasih newline
+- ???? end turn kadang ga jalan
+- DONE ngecek apakah pemain berikutnya juga ada di penjara
+- DONE buy & upgrade pas bukan di kota
+- DONE minta ulang kalo ga ketemu nama kota di world cup & world travel
+- DONE quit entah kenapa ga kebaca 
+- DONE re-roll pas di jail
+- kota tidak ditemukan pas world travel
+- kota tidak ditemukan pas world cup
+- DONE nge-world cup kota bukan punya sendiri
+- ???? new line selalu kebaca sebagai input berikutnya setiap kali readstring
+
+yg belum dicoba:
+kondisi menang
+sabotage & protect sekaligus
+
+
+"Ga ngerti yg diatas" -Vitra
+/*CHANGED*/
+leaderboard -> harusnya ud selesai, tolong dicek (bukan sorting)
+printinfo -> if terakhir ditambah kurung
+roll dice -> dijadiin d3 != 3 aja
+input -> str.h/.c ditambah fungsi LS yg ngembaliin panjang string
+/*FOUND ERROR*/
+re-roll dice -> ga mau membiarkan pemain re-roll... disuruh end turn tp stelah end turn ga dikasi turn lg
+printboard -> ad bug ketika menunjukkan siapa di mana... kadang muncul kadang ngk

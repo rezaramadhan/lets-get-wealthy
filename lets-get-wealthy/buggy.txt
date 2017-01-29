@@ -1,0 +1,9 @@
+bug
+
+1.pas ke moscow mau buy dut ga cukup harga kota moscow
+ malah jumlah duit pemain
+ 2. pas di kota yg udh dibeli lalu mau beli lagi malah keanggap beli 
+ paksa
+ 3.abis world travel harusnya bayar sewa
+ 4. sabotage ga bisa, error di nama kota.
+ 
